@@ -1,0 +1,10 @@
+A simple client-server based chatting application for single or multiple clients using
+sockets and multi threading module with the concept of 
+Clients post messages on the GUI (created using simple Tkinter package). 
+Messages posted by each client is shows to every other client connected to the server. 
+Basically a chatroom system where every message is shows to everyone 
+and all the messages are encoded between the devices 
+This is a python program for peer-to-peer chat application, built as a 
+class project for Computer Networks. It can communicate between peers 
+without the need for a central server. The only requirement is to know the peer's 
+network address in the form of IP and Port number.
